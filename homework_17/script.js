@@ -20,12 +20,3 @@ p.textContent =  p.textContent = `Name: ${result.name}, Gender: ${result.gender}
   form.append(p);
 
  })
-
-
-
-
-
-
-
-
-
